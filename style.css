@@ -1159,3 +1159,30 @@ section {
     width:100%;
 
 }
+/* PROFILE IMAGE */
+
+
+.profile-image {
+
+    margin-bottom:35px;
+
+}
+
+
+.profile-image img {
+
+    width:140px;
+
+    height:140px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    margin:auto;
+
+    border:5px solid white;
+
+    box-shadow:0 15px 40px rgba(0,0,0,0.12);
+
+}
