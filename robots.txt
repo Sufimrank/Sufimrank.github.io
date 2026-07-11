@@ -1,1 +1,6 @@
+User-agent: *
 
+Allow: /
+
+
+Sitemap: https://sufimrank.github.io/sitemap.xml
